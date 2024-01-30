@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    color: black;
+    font-family: "Copperplate", fantasy, sans-serif;
+    font-weight: bold;
+    font-size: 48px;
+}
+
+ul {
+    text-align: center;
+    list-style: inside;
+    font-family: "Arial", "Times New Roman" sans-serif;
+}
